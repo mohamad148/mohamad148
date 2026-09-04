@@ -120,7 +120,7 @@
 
 # راه ارتباطی با ما
 
-**Website:** [https://amgdev.ir](https://amgdev.ir)<br>
+**Website:** [amgdev.ir](https://amgdev.ir)<br>
 **Email:** amgdevelopers@gmail.com
 
 برای همکاری و بررسی پروژه‌های توسعه وب می‌توانید با اِی اِم جی دِولوپر در ارتباط باشید.
