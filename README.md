@@ -88,9 +88,7 @@
 * CSS
 * JavaScript
 
-### Project Preview
-
-**Nova Shop — Project Preview**
+![Nova Shop](./assets/nova-shop.png)
 
 ---
 
