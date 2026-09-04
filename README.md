@@ -88,7 +88,10 @@
 * CSS
 * JavaScript
 
+![Nova Shop](./assets/nova-hero.png)
 ![Nova Shop](./assets/nova-shop.png)
+![Nova Shop](./assets/nova-blog.png)
+![Nova Shop](./assets/nova-about.png)
 
 ---
 
