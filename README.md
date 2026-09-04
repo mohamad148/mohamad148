@@ -1,16 +1,23 @@
-## Hi there 👋
+# AMG Developers — Web Development Studio
 
-<!--
-**mohamad148/mohamad148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AMG Developers** یک تیم توسعه‌دهنده با تمرکز بر طراحی و توسعه وب‌سایت‌های مدرن، سریع و کاربردی است.
 
-Here are some ideas to get you started:
+ما در AMG تلاش می‌کنیم پروژه‌ها را از مرحله ایده و طراحی تا پیاده‌سازی و بهینه‌سازی به شکلی اصولی و قابل توسعه انجام دهیم. تمرکز اصلی ما ایجاد تجربه کاربری روان، طراحی مدرن و کدنویسی تمیز و بهینه است.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+در کنار توسعه وب، در زمینه‌های **UI/UX، توسعه Back-End، بهینه‌سازی عملکرد، SEO و توسعه سیستم‌های MTA:SA** نیز فعالیت می‌کنیم.
+
+### 👥 اعضای تیم
+
+**محمد مشرفی**
+`Front-End Developer`
+
+تمرکز بر توسعه رابط‌های کاربری مدرن، طراحی واکنش‌گرا، تجربه کاربری و پیاده‌سازی Front-End.
+
+**آرمان کرمی**
+`Front-End Developer & Unity Developer`
+
+فعال در زمینه توسعه وب و ساخت پروژه‌های تعاملی و بازی با استفاده از Unity.
+
+### 🎯 هدف ما
+
+هدف AMG Developers ساخت پروژه‌هایی با کیفیت، عملکرد مناسب و تجربه کاربری خوب و تبدیل شدن به یک تیم حرفه‌ای و قابل اعتماد در زمینه توسعه وب است.
